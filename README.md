@@ -32,9 +32,5 @@ Global Career Accelerator	SQL & Python Trainee (Fall ‘24)
 - Photography
 - Playing with my doggos
 
-## GitHub Stats
-
-![Your GitHub stats]()
-
 ## Picture of my dogs
 ![My doggos](image-2.jpg)
