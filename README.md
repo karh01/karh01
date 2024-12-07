@@ -25,8 +25,7 @@ Global Career Accelerator	SQL & Python Trainee (Fall ‘24)
 - SQL
 - Python
 - Tableau
-# Welcome to My GitHub Profile
-
+  
 ## Hobbies
 - Playing video games
 - Hiking and outdoor activities
