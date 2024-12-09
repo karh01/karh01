@@ -1,6 +1,5 @@
 # Welcome to My GitHub Profile 👋
 
-![My Profile Image](profile.jpg)
 I'm a recent web development graduate eager to apply my skills and grow professionally. I have a strong foundation in HTML, CSS, JavaScript, and responsive design. I'm passionate about building clean, user-friendly websites and applications, with a focus on performance and accessibility.
 
 In addition to my technical skills, I'm a fast learner, a strong communicator, and a problem solver. I'm excited about collaborating in a team environment and continuing to expand my knowledge of emerging web technologies.
